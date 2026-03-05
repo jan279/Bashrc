@@ -117,5 +117,4 @@ if ! shopt -oq posix; then
 fi
 
 # OpenClaw Completion
-source "/root/.openclaw/completions/openclaw.bash"
-export XDG_RUNTIME_DIR=/run/user/$(id -u)
+source "/home/jan/.openclaw/completions/openclaw.bash"
